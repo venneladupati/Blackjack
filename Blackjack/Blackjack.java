@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Random;
 import javax.swing.*;
 
+//blackjack class
+
 public class Blackjack {
     private class Card {
         String value;
